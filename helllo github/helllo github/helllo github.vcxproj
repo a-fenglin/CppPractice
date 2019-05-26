@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{FDF228DB-2675-4B46-A207-C7858DDB25A3}</ProjectGuid>
-    <RootNamespace>My02</RootNamespace>
+    <ProjectGuid>{831C4477-1818-417A-A7CB-A7BA287B6D3D}</ProjectGuid>
+    <RootNamespace>helllogithub</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
